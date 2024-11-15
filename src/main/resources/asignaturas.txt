@@ -1,0 +1,36 @@
+B6001,Introducción a Ingeniería en Computación,false
+T0002,Introducción a la Lectura y Escritura Académica,false
+B6000,Matemática I,false
+B6004,Electrónica Digital,false
+B6002,Física General I,false
+B6003,Programación I,false
+B6005,Química,false
+B6009,Arquitectura de Computadoras I,false
+B6011,Física General II,false
+B6006,Matemática II,false
+B6008,Programación II,false
+B6007,Álgebra y Geometría,false
+B6012,Análisis de Circuitos,false
+B5638,Inglés Técnico,false
+B6010,Matemática III,false
+B6013,Bases de Datos,false
+B6014,Introducción a los Sistemas Distribuidos y Paralelos,false
+B6016,Laboratorio de Sistemas Embebidos,false
+B6017,Seguridad Ambiental y Laboral,false
+B6015,Programación III,false
+B6020,Redes de Área Local y Extendida,false
+B6019,Señales y Sistemas,false
+B6018,Sistemas Operativos I,false
+B6024,Arquitectura de Computadora II,false
+B6023,Electrónica Analógica,false
+B6021,Ingeniería de Software I,false
+B6027,Compiladores e Intérpretes,false
+B6025,Inteligencia Artificial,false
+B6026,Optativa I,false
+B6028,Sistemas Operativos II,false
+B5672,Comunicaciones Analógicas y Digitales,false
+B5617,Economía y Organización Industrial,false
+B6029,Optativa II,false
+B6030,Programa de Trabajo Social,false
+B6023,Optativa III,false
+B6033,Práctica Profesional Supervisada,false
